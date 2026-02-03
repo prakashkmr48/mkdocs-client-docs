@@ -1,0 +1,9 @@
+site_name: Sample MkDocs Project
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Installation: installation.md
+
+theme:
+  name: material
